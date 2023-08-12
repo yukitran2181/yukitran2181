@@ -7,7 +7,7 @@ In previous roles, I used my detailed analysis of customer, sales, and marketing
 In line with my career aspirations, I am eager to challenge myself with data in a variety of fields, such as banking, retail, and logistics. I am also interested in exploring exercises related to prediction using machine learning.
 
 ## 📫 How to reach me:
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/yukichen2181/]) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yukitran2181/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([[https://www.linkedin.com/in/yukichen2181/] [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yukitran2181/)
 ## Projects for sharing:
 
 <a href="https://github.com/yukitran2181/Cohort_analysis/">
