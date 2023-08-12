@@ -7,7 +7,7 @@ In previous roles, I used my detailed analysis of customer, sales, and marketing
 In line with my career aspirations, I am eager to challenge myself with data in a variety of fields, such as banking, retail, and logistics. I am also interested in exploring exercises related to prediction using machine learning.
 
 ## 📫 How to reach me:
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/yukichen2181/))
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/yukichen2181/)
 ## Projects for sharing:
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yukitran2181&show_icons=true&theme=shadow_red&hide=contribs,prs,issues)
