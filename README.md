@@ -14,7 +14,7 @@ In line with my career aspirations, I am eager to challenge myself with data in 
 
 <a href="https://github.com/yukitran2181/cohort_analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=cohort_analysis&theme=radical" />
 </a>    
 
 
