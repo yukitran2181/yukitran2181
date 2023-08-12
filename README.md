@@ -8,8 +8,8 @@ In line with my career aspirations, I am eager to challenge myself with data in 
 
 Moreover, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-💼 Any freelance work? do reach, please reach me through my email :)
-💬 Ask me about anything, I am happy to help.
+  💼 Any freelance work? do reach, please reach me through my email :)
+  💬 Ask me about anything, I am happy to help.
 
 ## 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yukichen2181/)
