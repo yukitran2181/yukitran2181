@@ -1,4 +1,3 @@
-<img src="[https://images.app.goo.gl/wRuJK6PzZXVEVdX98]">
 # WELCOME TO MY PROFILE 👋👋👋
 
 Hey there! I'm Yuki, a person who loves telling stories beyond many complex numbers. I've got a Master degree in Business Administration from I- Shou University and took some extra courses to improving my data skills.
