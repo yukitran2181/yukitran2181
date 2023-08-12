@@ -35,4 +35,9 @@ In line with my career aspirations, I am eager to challenge myself with data in 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Power_BI_projects&theme=radical" />
 </a> 
 
+<a href="https://github.com/yukitran2181/Ecommerce/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=radical" />
+</a>
+
 
