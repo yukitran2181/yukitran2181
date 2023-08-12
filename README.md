@@ -15,10 +15,9 @@ In line with my career aspirations, I am eager to challenge myself with data in 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Cohort_analysis&theme=rose" />
 </a>  
-
-<a href="https://github.com/yukitran2181/4G_transition_predict/">
+<a href="https://github.com/yukitran2181/Ecommerce/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=4G_transition_predict&theme=rose&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=rose" />
 </a>
 
 <a href="https://github.com/yukitran2181/RFM_Analysis/">
@@ -36,9 +35,10 @@ In line with my career aspirations, I am eager to challenge myself with data in 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Power_BI_projects&theme=rose" />
 </a> 
 
-<a href="https://github.com/yukitran2181/Ecommerce/">
+
+<a href="https://github.com/yukitran2181/4G_transition_predict/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=rose" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=4G_transition_predict&theme=rose&show_icons=true" />
 </a>
 
 
