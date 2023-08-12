@@ -12,7 +12,7 @@ In line with my career aspirations, I am eager to challenge myself with data in 
 
 ## Projects for sharing:
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=shadow_red&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yukitran2181&show_icons=true&theme=shadow_red&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
