@@ -10,12 +10,15 @@ In line with my career aspirations, I am eager to challenge myself with data in 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/yukichen2181/]) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yukitran2181/)
 ## Projects for sharing:
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yukitran2181&show_icons=true&theme=shadow_red&hide=contribs,prs,issues)
-
 <a href="https://github.com/yukitran2181/Cohort_analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Cohort_analysis&theme=radical" />
-</a>    
+</a>  
+
+<a href="https://github.com/yukitran2181/RFM_Analysis/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=RFM_Analysis&theme=radical" />
+</a>  
 
 <a href="https://github.com/yukitran2181/HRM_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
