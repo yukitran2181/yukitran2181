@@ -12,7 +12,7 @@ In line with my career aspirations, I am eager to challenge myself with data in 
 
 ## Projects for sharing:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2181&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukitran2181&theme=shadow_red&show_icons=true)
 
 
 
