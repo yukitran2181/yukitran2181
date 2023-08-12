@@ -13,32 +13,32 @@ In line with my career aspirations, I am eager to challenge myself with data in 
 
 <a href="https://github.com/yukitran2181/Cohort_analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Cohort_analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Cohort_analysis&theme=rose" />
 </a>  
  
 
 <a href="https://github.com/yukitran2181/4G_transition_predict/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=4G_transition_predict&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=4G_transition_predict&theme=rose" />
 
 <a href="https://github.com/yukitran2181/RFM_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=RFM_Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=RFM_Analysis&theme=rose" />
 </a> 
   
 <a href="https://github.com/yukitran2181/HRM_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=HRM_Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=HRM_Analysis&theme=rose" />
 </a> 
 
 <a href="https://github.com/yukitran2181/Power_BI_projects/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Power_BI_projects&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Power_BI_projects&theme=rose" />
 </a> 
 
 <a href="https://github.com/yukitran2181/Ecommerce/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=rose" />
 </a>
 
 
